@@ -42,7 +42,18 @@ youtube_channels = {
         "UC1OLfEQ-DeCFBSUIyPgVqmw",  # Rachelle in theory
         "UCKtiMrNZq0gGbPTnsMu7Bsw",  # Ruri Ohama
         "UCJCR3IMdS5zHNh1OAQd7vMg",  # Charlotte Fraza
-        "UC-dmJ79518WlKMbsu50eMTQ"  # Clark Kegley
+        "UC-dmJ79518WlKMbsu50eMTQ",  # Clark Kegley
+        "UCq5iwmJnLnrVv9zUQU5zbKw", # Nick Russell
+        "UCmvYCRYPDlzSHVNCI_ViJDQ", # Tiago Forte
+        "UCUFFHXvzAMRSD8Bq4bJppxQ", # Elizabeth Filips
+        "UC1OLfEQ-DeCFBSUIyPgVqmw", # Rachelle in theory
+        "UCk2uK3jPlliD6_JCAUb4myw", # Destina
+        "UCmgNUsFzcte6qmsCLL429pg", # Meg Shinagawa
+        "UCEdXA7uliIbBT5aWhuR3dFQ", # Caren Magill | ADHD Coach + Multipotentialite
+        "UCVTIFLAmnSjlT0sGz2BYJmQ", # Antonia's Universe
+        "UC1QnKYxNXosv9ykUt_6wCMg", # Dr Alex Young
+        "UClaaXhWDyCjfNKhcpKR-GBg", # Jeremy's Tutorials
+        "UCEHp_b02I0GvTYCBPX_0w1g"  # Mariana Vieira
     ],
     "Health, Wellness, and Medical": [
         "UCR_Tzu1r5M9uoNB3CF4Zg3g",  # Dr Sid Warrier
